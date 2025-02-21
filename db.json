@@ -20,11 +20,11 @@
     }
   ],
   "cards": [
-    { "id": 1, "name": "Fireball", "picture": "https://res.cloudinary.com/dgdqu4f9s/image/upload/v1740160995/263873_in_1000x1000_iosjqt.png" },
-    { "id": 2, "name": "Ice Blast", "picture": "https://res.cloudinary.com/dgdqu4f9s/image/upload/v1740160992/eaa419be0e0a45146b0d0f5687f60085_fjo0ad.png" },
-    { "id": 3, "name": "Thunder Strike", "picture": "https://res.cloudinary.com/dgdqu4f9s/image/upload/v1740160986/pokemonbrilliantstars156_wcc7ne.webp" },
-    { "id": 4, "name": "Fireball", "picture": "https://res.cloudinary.com/dgdqu4f9s/image/upload/v1740160980/c3prgn5w13vopruwjag1wd6kx8iu_ae3fln.png" },
-    { "id": 5, "name": "Ice Blast", "picture": "https://res.cloudinary.com/dgdqu4f9s/image/upload/v1740160969/sv3-5_en_170_pni5by.png" },
+    { "id": 1, "name": "Charizard", "picture": "https://res.cloudinary.com/dgdqu4f9s/image/upload/v1740160995/263873_in_1000x1000_iosjqt.png" },
+    { "id": 2, "name": "Giratina", "picture": "https://res.cloudinary.com/dgdqu4f9s/image/upload/v1740160992/eaa419be0e0a45146b0d0f5687f60085_fjo0ad.png" },
+    { "id": 3, "name": "Lumineon", "picture": "https://res.cloudinary.com/dgdqu4f9s/image/upload/v1740161308/imagen_2025-02-21_130823789_fggede.png" },
+    { "id": 4, "name": "Pikachu", "picture": "https://res.cloudinary.com/dgdqu4f9s/image/upload/v1740160980/c3prgn5w13vopruwjag1wd6kx8iu_ae3fln.png" },
+    { "id": 5, "name": "Squirtle", "picture": "https://res.cloudinary.com/dgdqu4f9s/image/upload/v1740160969/sv3-5_en_170_pni5by.png" },
     { "id": 6, "name": "Thunder Strike", "picture": "https://res.cloudinary.com/dgdqu4f9s/image/upload/v1740160958/105_usa1em.png" },
     { "id": 7, "name": "Fireball", "picture": "https://res.cloudinary.com/dgdqu4f9s/image/upload/v1740160948/m-lucario-ex-55a-55a_qsar8i.png" },
     { "id": 8, "name": "Ice Blast", "picture": "https://media.discordapp.net/attachments/934272707607027722/1342550589686677644/c3prgn5w13vopruwjag1wd6kx8iu.png?ex=67ba0b2b&is=67b8b9ab&hm=640e08e5e4a3f7f8943089eb10bcaf45e94bd73ec3a04f3fe2cc619b95a53f57&=&format=webp&quality=lossless&width=480&height=663" },
