@@ -1,24 +1,28 @@
 {
-    "users": [
-            {
-              "id":1,
-              "username":"manolo",
-              "state":true,
-                "deck":[1,2,3,4,5] 
-            },
-            {
-              "id":2,
-              "username":"cheira",
-              "state":true,
-                "deck":[50,20,31,46,58] 
-            },
-            {
-              "id":3,
-              "username":"escandon",
-              "state":true,
-                "deck":[501,202,317,463,589] 
-            }
-          ]
-    ,
-    "worlds":[1,2,3,4,5,6,7,8]    
+  "users": [
+    {
+      "id": 1,
+      "username": "Ash",
+      "state": true,
+      "deck": [1, 2, 3, 4, 5]
+    },
+    {
+      "id": 2,
+      "username": "Zoro",
+      "state": true,
+      "deck": [50, 20, 31, 46, 58]
+    },
+    {
+      "id": 3,
+      "username": "Reaper",
+      "state": true,
+      "deck": [501, 202, 317, 463, 589]
+    }
+  ],
+  "cards": [
+    { "id": 1, "name": "Fireball", "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGoogle_Images&psig=AOvVaw0WdfiWel96q022efBhX8Vb&ust=1740245378298000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCOCmsa6l1YsDFQAAAAAdAAAAABAE" },
+    { "id": 2, "name": "Ice Blast", "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGoogle_Images&psig=AOvVaw0WdfiWel96q022efBhX8Vb&ust=1740245378298000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCOCmsa6l1YsDFQAAAAAdAAAAABAE" },
+    { "id": 3, "name": "Thunder Strike", "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGoogle_Images&psig=AOvVaw0WdfiWel96q022efBhX8Vb&ust=1740245378298000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCOCmsa6l1YsDFQAAAAAdAAAAABAE" }
+  ],
+  "worlds": [1, 2, 3, 4, 5, 6, 7, 8]
 }
