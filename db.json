@@ -20,9 +20,9 @@
     }
   ],
   "cards": [
-    { "id": 1, "name": "Fireball", "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGoogle_Images&psig=AOvVaw0WdfiWel96q022efBhX8Vb&ust=1740245378298000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCOCmsa6l1YsDFQAAAAAdAAAAABAE" },
-    { "id": 2, "name": "Ice Blast", "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGoogle_Images&psig=AOvVaw0WdfiWel96q022efBhX8Vb&ust=1740245378298000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCOCmsa6l1YsDFQAAAAAdAAAAABAE" },
-    { "id": 3, "name": "Thunder Strike", "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGoogle_Images&psig=AOvVaw0WdfiWel96q022efBhX8Vb&ust=1740245378298000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCOCmsa6l1YsDFQAAAAAdAAAAABAE" }
+    { "id": 1, "name": "Fireball", "picture": "https://media.discordapp.net/attachments/934272707607027722/1342550660247322704/sv3-5_en_170.png?ex=67ba0b3c&is=67b8b9bc&hm=1bccdf2f94ee0713542cab70571b11730bda60842952e0a93814fc3ae72bdf5e&=&format=webp&quality=lossless&width=476&height=663" },
+    { "id": 2, "name": "Ice Blast", "picture": "https://media.discordapp.net/attachments/934272707607027722/1342550589686677644/c3prgn5w13vopruwjag1wd6kx8iu.png?ex=67ba0b2b&is=67b8b9ab&hm=640e08e5e4a3f7f8943089eb10bcaf45e94bd73ec3a04f3fe2cc619b95a53f57&=&format=webp&quality=lossless&width=480&height=663" },
+    { "id": 3, "name": "Thunder Strike", "picture": "https://media.discordapp.net/attachments/934272707607027722/1342550540441354341/pokemonbrilliantstars156.png?ex=67ba0b20&is=67b8b9a0&hm=ce26aa3b583451b70c0dd23480b306e28c4731f3f6b0c6b09e1b8443f33d5110&=&format=webp&quality=lossless&width=476&height=663" }
   ],
   "worlds": [1, 2, 3, 4, 5, 6, 7, 8]
 }
